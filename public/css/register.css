@@ -1,0 +1,22 @@
+body{
+    /*background-image: url('../img/registerBgp.jpg');*/
+    /*background-repeat:no-repeat;*/
+    /*background-position:0% 0%;*/
+    /*background-size: cover;*/
+    /*background-color: #22C3AA;*/
+    margin: 0;
+    background-color: #22C3AA;
+}
+.size{
+    color: silver;
+    font-size: 30px;
+    font-family: 'Microsoft YaHei','黑体';
+}
+
+.center{
+    position:absolute; top:50%; left:50%;
+    margin-top:-250px;
+    margin-left:-250px;
+    width:500px;
+    height:500px;
+}
